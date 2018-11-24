@@ -210,7 +210,7 @@ item []:
             text = ""
     item[2]:
         class = "IntervalTier"
-        name = "focus"
+        name = "focus see@"
         xmin = 0.0
         xmax = 502.619
         intervals: size = 49
