@@ -14,7 +14,7 @@ see@
 8	родилась	рождаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
 9	дочка	дочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
 10	/	/	PUNCT	_	_	_	_	_	_
-11	аааа	ааа	INTJ	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+11	аааа	аааа	INTJ	_	_	_	_	_	_
 12	и	и	CCONJ	_	_	_	_	_	_
 13	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
 14	с	с	ADP	_	_	_	_	_	_
@@ -39,7 +39,7 @@ see@
 33	в	в	ADP	_	_	_	_	_	_
 34	Алжире	Алжир	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
 35	аа	аа	INTJ	_	_	_	_	_	_
-36	ссс	с	ADP	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+36	ссс	с	ADP	_	_	_	_	_	_
 37	/	/	PUNCT	_	_	_	_	_	_
 38	инженерами	инженер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
 39	нашими	наш	DET	_	Case=Ins|Number=Plur	_	_	_	_
@@ -81,11 +81,11 @@ see@
 3	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
 4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
 5	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
-6	смеётся	смеёться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+6	смеётся	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
 7	]	]	PUNCT	_	_	_	_	_	_
 8	интересное	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 9	/	/	PUNCT	_	_	_	_	_	_
-10	ааа	ааа	INTJ	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+10	ааа	ааа	INTJ	_	_	_	_	_	_
 11	нууу	нууу	INTJ	_	Degree=Pos	_	_	_	_
 12	там	там	ADV	_	Degree=Pos	_	_	_	_
 13	не	не	PART	_	_	_	_	_	_
@@ -106,6 +106,6 @@ see@
 28	жаркое	жаркий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 29	трудно	трудно	PRAEDIC	_	Degree=Pos	_	_	_	_
 30	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
-31	аа	аа	INTJ	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+31	аа	аа	INTJ	_	_	_	_	_	_
 32	выдержать	выдержать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
 33	/	/	PUNCT	_	_	_	_	_	_
